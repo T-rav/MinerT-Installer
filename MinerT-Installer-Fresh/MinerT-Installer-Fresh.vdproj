@@ -28,7 +28,7 @@
         "Entry"
         {
         "MsmKey" = "8:_2880D33CCD58A95EC30E55764204CC23"
-        "OwnerKey" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
+        "OwnerKey" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -99,6 +99,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_80ABA07474568E0A21EEDEFA9957D5BA"
+        "OwnerKey" = "8:_871C5EC6B621447680C013A45B97922E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_81B979784CE74D00BD3E83BB5EEBE5EE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -124,7 +130,7 @@
         "Entry"
         {
         "MsmKey" = "8:_A39D581DD60171B4D3BA06A5D6AF5125"
-        "OwnerKey" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
+        "OwnerKey" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -148,12 +154,6 @@
         "Entry"
         {
         "MsmKey" = "8:_CB74D634DA7D4939BAAE6EE5B674955D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -195,6 +195,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_FD51F99D57154F23A5B071F4944514D5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -220,7 +226,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
+        "OwnerKey" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -238,7 +244,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_871C5EC6B621447680C013A45B97922E"
+        "OwnerKey" = "8:_80ABA07474568E0A21EEDEFA9957D5BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -916,37 +922,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D18E0175A91A4C2AB234DBD17FD0F3B9"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MinerT, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_D18E0175A91A4C2AB234DBD17FD0F3B9"
-                    {
-                    "Name" = "8:MinerT.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\MinerT-Fresh\\MinerT-Fresh\\bin\\Release\\MinerT.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E0641E429B9B4B13B5C4B4D5836CB184"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D31DFB81636644DD994EBA6579735ED4"
             {
             "SourcePath" = "8:..\\..\\MinerT-Fresh\\MinerT-Fresh\\bin\\Release\\binaries\\cpu_miner\\pthreadGC2.dll"
@@ -1053,6 +1028,37 @@
             "TargetName" = "8:cgminer.exe"
             "Tag" = "8:"
             "Folder" = "8:_23C02D99F3234A568B8A1F630139D42D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F54B0633F5AC4BF48785A932801ACAA4"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MinerT, Version=1.7.1.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F54B0633F5AC4BF48785A932801ACAA4"
+                    {
+                    "Name" = "8:MinerT.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\MinerT-Fresh\\MinerT-Fresh\\bin\\Release\\MinerT.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E0641E429B9B4B13B5C4B4D5836CB184"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1249,15 +1255,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:MinerT"
-        "ProductCode" = "8:{673600A0-FFEC-4FCD-9C21-35B6F2A6BD1E}"
-        "PackageCode" = "8:{3C03A272-E8BE-40E7-A79A-48F3D0FD9666}"
+        "ProductCode" = "8:{ECDC5959-F9B6-4F9C-9CD7-3930BAFB5956}"
+        "PackageCode" = "8:{B0FAEC27-400E-4C1B-9E2D-04E57028B285}"
         "UpgradeCode" = "8:{676BC0B2-6C23-4FC5-94E0-3CFA107BB517}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.7.0"
+        "ProductVersion" = "8:1.7.1"
         "Manufacturer" = "8:Stone Age Technologies"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -1370,7 +1376,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_31B95DADA4834C45A51923CFD9CD6F27"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5CF34BAF97FF4FFEB1FC1E86063AFB40"
             {
             "Name" = "8:MinerT.exe"
             "Arguments" = "8:"
@@ -1378,13 +1384,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
-            "Folder" = "8:_A926F514349B472586066D8BE93DBC14"
+            "Target" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
+            "Folder" = "8:_57FA805AA7284023B6FC449C017FAA7F"
             "WorkingFolder" = "8:_E0641E429B9B4B13B5C4B4D5836CB184"
             "Icon" = "8:_AFEB5841457D4A91AFE32067946787F1"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_859530A178CC4357B351A975FF73FA69"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A26A6F4046474E8BA83ED5878E5F122C"
             {
             "Name" = "8:MinerT.exe"
             "Arguments" = "8:"
@@ -1392,8 +1398,8 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_D18E0175A91A4C2AB234DBD17FD0F3B9"
-            "Folder" = "8:_57FA805AA7284023B6FC449C017FAA7F"
+            "Target" = "8:_F54B0633F5AC4BF48785A932801ACAA4"
+            "Folder" = "8:_A926F514349B472586066D8BE93DBC14"
             "WorkingFolder" = "8:_E0641E429B9B4B13B5C4B4D5836CB184"
             "Icon" = "8:_AFEB5841457D4A91AFE32067946787F1"
             "Feature" = "8:"
